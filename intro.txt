@@ -1,4 +1,5 @@
-Giới thiệu cá nhân:
+Hello, this is Phạm Thái An
+
 Tôi là Phạm Thái An, sinh viên năm 4.
 Tôi đang học ngành Công nghệ Thông tin.
 Tôi thích học về Git và quản lý phiên bản.
