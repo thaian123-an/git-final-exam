@@ -15,3 +15,11 @@ Kỹ năng:
 - C++
 - Làm việc nhóm
 
+Kế hoạch học tập:
+- Học chắc kiến thức Git.
+- Thành thạo GitHub để làm việc nhóm.
+- Luyện tập viết code hằng ngày.
+- Học thêm về Docker, Linux.
+- Tham gia dự án thực tế để tích lũy kinh nghiệm.
+
+
