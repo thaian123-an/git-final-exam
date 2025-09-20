@@ -1,3 +1,4 @@
+
 Hello, this is Phạm Thái An
 
 Tôi là Phạm Thái An, sinh viên năm 4.
@@ -24,3 +25,7 @@ Kế hoạch học tập:
 - Tham gia dự án thực tế để tích lũy kinh nghiệm.
 
 
+
+Xin chào, tôi là Phạm Thái An
+
+Conflict resolved on 20/09/2025
