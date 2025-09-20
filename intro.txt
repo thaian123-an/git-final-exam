@@ -1,0 +1,17 @@
+Giới thiệu cá nhân:
+Tôi là Phạm Thái An, sinh viên năm 4.
+Tôi đang học ngành Công nghệ Thông tin.
+Tôi thích học về Git và quản lý phiên bản.
+Tôi mong muốn trở thành một lập trình viên giỏi.
+Tôi tin rằng chăm chỉ và kiên trì sẽ mang lại thành công.
+
+Sở thích:
+- Đọc sách
+- Lập trình
+- Chơi thể thao
+
+Kỹ năng:
+- Git
+- C++
+- Làm việc nhóm
+
