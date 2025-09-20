@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý tài liệu nhóm
+- Cho phép thành viên tạo, sửa, xóa tài liệu.
+- Lưu lịch sử thay đổi tài liệu.
+- Hỗ trợ comment trong tài liệu.
+- Hỗ trợ phân quyền xem/sửa.
+- Giao diện thân thiện và dễ sử dụng.
