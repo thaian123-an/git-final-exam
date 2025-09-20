@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản dễ dàng
 - Hỗ trợ làm việc nhóm hiệu quả
 - Có thể quay lại lịch sử khi cần
-- Tôi cần luyện tập thêm để thành thạo
-- Công cụ rất hữu ích cho dự án lớn
